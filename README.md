@@ -7,10 +7,10 @@
 My name is Quynh Linh,My short term goal is to become a junior Frontend web developer. I look forward to learning how to work in a professional environment, improving my skills and learning a lot of knowledge about front-end and back-end development.
 
 <p align="left">
-      <a href="https://github.com/Quynh-Linh-IT?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Quynh-Linh-IT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Quynh-Linh-IT?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Quynh-Linh-IT?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/quynh-linh?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/quynh-linh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/quynh-linh?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/quynh-linh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ---
@@ -33,8 +33,8 @@ My name is Quynh Linh,My short term goal is to become a junior Frontend web deve
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=quynh-linh-it&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=quynh-linh&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Quynh-Linh-IT&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=quynh-linh&theme=gruvbox&border_radius=4.5) -->
 
 #
